@@ -41,7 +41,7 @@ Tenho foco na aplicação prática de soluções técnicas em ambientes reais e 
 |-------------------------------------------------|-----------|
 | 🎓 **Secretário Geral da LaSEC**                | Coordenação de eventos, processos internos, comunicação e documentação oficial. |
 | 🧪 **Membro fundador do Núcleo de Pesquisa - LaSEC** | Desenvolvimento de projetos sobre segurança, educação digital e OSINT. |
-| 🏁 **Maratonas e Formações Técnicas**           | Participação em iniciativas como Cisco Networking Academy (CCNA, CyberOps), competições e projetos colaborativos. |
+| 🏁 **Maratonas e Formações Técnicas**           | Participação em cursos como Cisco Networking Academy, competições e projetos colaborativos. |
 
 ---
 
