@@ -1,7 +1,8 @@
 <h1 align="center">👾 Kelvin Marques</h1>
 <p align="center">
   Graduando em Engenharia da Computação – Uniateneu<br>
-  Secretário Geral da LaSEC • Membro fundador do Núcleo de Pesquisa em Segurança Digital
+  Secretário Geral da Liga Acadêmica de Cibersegurança da Uniateneu - LaSEC
+  • Membro fundador do Núcleo de Pesquisa da LaSEC
 </p>
 
 ---
